@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawfiqhusseinfarid&show_icons=true&locale=en" alt="tawfiqhusseinfarid" /></p>
 
-<p><img align="center" src="https://[github-readme-streak-stats.herokuapp.com/?user=tawfiqhusseinfarid&](https://github.com/tawfiqhusseinfarid)" alt="tawfiqhusseinfarid" /></p>
+<p><img align="center" src="https://github.com/tawfiqhusseinfarid" alt="tawfiqhusseinfarid" /></p>
 
 
 
