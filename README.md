@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Java Open Source Project**
 
 - 📫 How to reach me **Tawfiqhfarid@gmail.com**
--                     **tawfiq.versel.app**
+- 📫 Portfolio link **https://tawfiq.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
