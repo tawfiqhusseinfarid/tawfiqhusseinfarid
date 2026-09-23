@@ -22,28 +22,26 @@
 
 ### 👨‍💻 About Me
 
-I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh focused on building reliable, scalable and maintainable web applications.
+I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh passionate about building reliable and scalable web applications.
 
-- 🔭 Currently working as a **Junior Software Engineer**
-- 💻 Experienced in **Java, Spring Boot, Angular and REST APIs**
+- 💻 Software Engineer specializing in **Java, Spring Boot & Angular**
+- 🔧 Experienced in developing **REST APIs and database-driven applications**
 - 🗄️ Working with **PostgreSQL, Oracle and MySQL**
-- 🚀 Interested in building **enterprise and database-driven applications**
-- 🌱 Continuously improving my skills in **software architecture and backend development**
-- 🤝 Interested in collaborating on **Java / Spring Boot open-source projects**
-- 📫 Reach me at **tawfiqhfarid@gmail.com**
+- 🌱 Continuously learning and improving my software engineering skills
+- 🤝 Interested in collaborating on **Java & Spring Boot projects**
+- 📫 Email: **tawfiqhfarid@gmail.com**
 - 🌐 Portfolio: **https://tawfiq.vercel.app**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
 ### Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
 </p>
 
 ### Frontend
@@ -63,7 +61,7 @@ I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh focused on bui
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
-### Tools & Workflow
+### Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
@@ -78,21 +76,19 @@ I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh focused on bui
 ### Junior Software Engineer — Addie Soft Ltd.
 **March 2025 – Present**
 
-- Working on enterprise-level web applications
-- Developing backend services using **Java & Spring Boot**
-- Building frontend features using **Angular**
+- Developing enterprise web applications using **Java, Spring Boot and Angular**
 - Developing and integrating **REST APIs**
 - Working with **Oracle databases**
 - Implementing database-driven features and business logic
-- Debugging, maintaining and improving existing applications
+- Debugging and maintaining existing applications
 
 ### Junior Software Engineer Intern — Addie Soft Ltd.
 **September 2024 – February 2025**
 
-- Worked on Education Management Information System (EMIS)
-- Developed forms, tables and application features
+- Worked on enterprise web application development
+- Developed forms, tables and database-driven features
 - Integrated REST APIs
-- Worked with database-driven modules
+- Worked with Angular and backend services
 
 ### Java Intern — Daffodil International Professional Training Institute
 **June 2024 – September 2024**
@@ -104,55 +100,9 @@ I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh focused on bui
 ### Frontend Developer Intern — Tiziai Technologies AB
 **September 2023 – November 2023**
 
-- Developed responsive frontend interfaces
+- Developed responsive web interfaces
 - Worked with HTML, CSS and JavaScript
-- Improved UI structure and usability
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Education Management Information System (EMIS)
-
-Enterprise-level education management system involving:
-
-- Java
-- Spring Boot
-- Angular
-- Oracle
-- REST APIs
-- Database-driven applications
-
-🔗 **Live:** https://apps.emis.gov.bd/portal?returnUrl=%2F
-
----
-
-### ✈️ Biman Bangladesh Airlines — FPBS
-
-Worked on application features including:
-
-- CRUD operations
-- Form management
-- Backend integration
-- Database-driven functionality
-
-🔗 **Live:** https://fpbs.biman-airlines.com/
-
----
-
-### 🎓 Rajshahi University Project
-
-Worked on a university-related web application involving application and database-driven functionality.
-
-🔗 **Live:** https://eresult.ru.ac.bd/account?returnUrl=%2F
-
----
-
-### 🏫 Student & Portal Management System
-
-Web-based management system with application and database-driven features.
-
-🔗 **Live:** https://app.annazatmadrasah.com/
+- Implemented frontend features and UI improvements
 
 ---
 
@@ -204,8 +154,4 @@ Daffodil Technical Institute
 
 <p align="center">
   <b>Clean • Scalable • Reliable</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
 </p>
