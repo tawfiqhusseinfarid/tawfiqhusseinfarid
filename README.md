@@ -18,8 +18,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 ### 👨‍💻 About Me
 
 I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh passionate about building reliable and scalable web applications.
@@ -73,36 +71,80 @@ I'm **Tawfiq Hussein Farid**, a Software Engineer from Bangladesh passionate abo
 
 ## 💼 Experience
 
-### Junior Software Engineer — Addie Soft Ltd.
-**March 2025 – Present**
+<p align="center">
+  <img src="https://img.shields.io/badge/2025%20%E2%80%94%20Present-Software%20Engineer-0e75b6?style=for-the-badge" />
+</p>
 
-- Developing enterprise web applications using **Java, Spring Boot and Angular**
-- Developing and integrating **REST APIs**
-- Working with **Oracle databases**
-- Implementing database-driven features and business logic
-- Debugging and maintaining existing applications
+<h3 align="center">Junior Software Engineer</h3>
 
-### Junior Software Engineer Intern — Addie Soft Ltd.
-**September 2024 – February 2025**
+<p align="center">
+  <strong>Addie Soft Ltd.</strong>
+</p>
 
-- Worked on enterprise web application development
-- Developed forms, tables and database-driven features
-- Integrated REST APIs
-- Worked with Angular and backend services
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-### Java Intern — Daffodil International Professional Training Institute
-**June 2024 – September 2024**
+<p align="center">
+  Building and maintaining enterprise web applications with
+  Java, Spring Boot, Angular, REST APIs and Oracle.
+</p>
 
-- Developed Java-based applications
-- Worked with Java Swing, NetBeans and MySQL
-- Implemented CRUD operations and database integration
+<br>
 
-### Frontend Developer Intern — Tiziai Technologies AB
-**September 2023 – November 2023**
+<p align="center">
+  <img src="https://img.shields.io/badge/2024%20%E2%80%94%202025-Software%20Engineer%20Intern-6c757d?style=for-the-badge" />
+</p>
 
-- Developed responsive web interfaces
-- Worked with HTML, CSS and JavaScript
-- Implemented frontend features and UI improvements
+<h3 align="center">Junior Software Engineer Intern</h3>
+
+<p align="center">
+  <strong>Addie Soft Ltd.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<p align="center">
+  Contributed to enterprise application development,
+  API integration and database-driven application features.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2023-Frontend%20Developer%20Intern-6c757d?style=for-the-badge" />
+</p>
+
+<h3 align="center">Frontend Developer Intern</h3>
+
+<p align="center">
+  <strong>Tiziai Technologies AB</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  Developed responsive web interfaces and implemented
+  frontend features using HTML, CSS and JavaScript.
+</p>
 
 ---
 
@@ -121,14 +163,6 @@ Daffodil Technical Institute
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfiqhusseinfarid&show_icons=true&theme=tokyonight&hide_border=true" alt="Tawfiq's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfiqhusseinfarid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfiqhusseinfarid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -139,10 +173,6 @@ Daffodil Technical Institute
 <p align="left">
   <a href="https://www.linkedin.com/in/tawfiq-hussein-farid-6862622a3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.facebook.com/TawfiqHFarid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
   </a>
 
   <a href="mailto:tawfiqhfarid@gmail.com">
